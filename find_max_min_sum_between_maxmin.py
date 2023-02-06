@@ -51,6 +51,4 @@ else:
     while max_index <= min_index:
         sum += array[max_index]
         max_index += 1
-
-
 print('сумма между максимальным и минимальным значением ', sum)
