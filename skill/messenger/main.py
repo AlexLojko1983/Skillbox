@@ -2,7 +2,7 @@ from datetime import datetime
 from flask import Flask, render_template, request
 import json
 
-app = Flask(__name__)
+app = Flask(__name__
 
 """СОЗДАЕМ Функции. Для добавления и сохранения пользователя"""
 
